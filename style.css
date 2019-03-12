@@ -23,8 +23,10 @@ ul {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 20px;
     width: 600px;
     text-align: center;
+    border: 3px solid black;
 }
 
 h1 {
